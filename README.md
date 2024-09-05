@@ -1,2 +1,9 @@
-# women-in-horror-prototype
- 
+# Women in Horror
+
+### Project Description
+
+
+### Building with Svelte
+
+
+### Additional Readings
