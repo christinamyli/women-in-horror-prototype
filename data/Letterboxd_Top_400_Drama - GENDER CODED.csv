@@ -1,0 +1,401 @@
+Title,Year,Director,Director_Gender,Actor,Actor_Gender
+Parasite,2019,Bong Joon-ho,M,Song Kang-ho,M
+Fight Club,1999,David Fincher,M,Edward Norton,M
+La La Land,2016,Damien Chazelle,M,Ryan Gosling,M
+Interstellar,2014,Christopher Nolan,M,Matthew McConaughey,M
+Oppenheimer,2023,Christopher Nolan,M,Cillian Murphy,M
+Joker,2019,Todd Phillips,M,Joaquin Phoenix,M
+Whiplash,2014,Damien Chazelle,M,Miles Teller,M
+Midsommar,2019,Ari Aster,M,Florence Pugh,F
+The Dark Knight,2008,Christopher Nolan,M,Christian Bale,M
+Saltburn,2023,Emerald Fennell,F,Barry Keoghan,M
+The Truman Show,1998,Peter Weir,M,Jim Carrey,M
+Lady Bird,2017,Greta Gerwig,F,Saoirse Ronan,F
+American Psycho,2000,Mary Harron,F,Christian Bale,M
+The Grand Budapest Hotel,2014,Wes Anderson,M,Ralph Fiennes,M
+The Wolf of Wall Street,2013,Martin Scorsese,M,Leonardo DiCaprio,M
+Eternal Sunshine of the Spotless Mind,2004,Michel Gondry,M,Jim Carrey,M
+Gone Girl,2014,David Fincher,M,Ben Affleck,M
+Once Upon a Time… in Hollywood,2019,Quentin Tarantino,M,Leonardo DiCaprio,M
+Black Swan,2010,Darren Aronofsky,M,Natalie Portman,F
+Inglourious Basterds,2009,Quentin Tarantino,M,Brad Pitt,M
+Little Women,2019,Greta Gerwig,F,Saoirse Ronan,F
+Forrest Gump,1994,Robert Zemeckis,M,Tom Hanks,M
+The Silence of the Lambs,1991,Jonathan Demme,M,Jodie Foster,F
+The Godfather,1972,Francis Ford Coppola,M,Marlon Brando,M
+10 Things I Hate About You,1999,Gil Junger,M,Heath Ledger,M
+Call Me by Your Name,2017,Luca Guadagnino,M,Armie Hammer,M
+Shutter Island,2010,Martin Scorsese,M,Leonardo DiCaprio,M
+Django Unchained,2012,Quentin Tarantino,M,Jamie Foxx,M
+Her,2013,Spike Jonze,M,Joaquin Phoenix,M
+The Social Network,2010,David Fincher,M,Jesse Eisenberg,M
+Dead Poets Society,1989,Peter Weir,M,Robin Williams,M
+Challengers,2024,Luca Guadagnino,M,Zendaya,F
+Taxi Driver,1976,Martin Scorsese,M,Robert De Niro,M
+Inside Out,2015,Pete Docter,M,Amy Poehler,F
+The Perks of Being a Wallflower,2012,Stephen Chbosky,M,Logan Lerman,M
+Jojo Rabbit,2019,Taika Waititi,M,Roman Griffin Davis,M
+Arrival,2016,Denis Villeneuve,M,Amy Adams,F
+Blade Runner 2049,2017,Denis Villeneuve,M,Ryan Gosling,M
+Good Will Hunting,1997,Gus Van Sant,M,Matt Damon,M
+The Shawshank Redemption,1994,Frank Darabont,M,Tim Robbins,M
+Past Lives,2023,Celine Song,F,Greta Lee,F
+(500) Days of Summer,2009,Marc Webb,M,Joseph Gordon-Levitt,M
+Titanic,1997,James Cameron,M,Leonardo DiCaprio,M
+Donnie Darko,2001,Richard Kelly,M,Jake Gyllenhaal,M
+Don't Look Up,2021,Adam McKay,M,Leonardo DiCaprio,M
+Drive,2011,Nicolas Winding Refn,M,Ryan Gosling,M
+Mean Girls,2004,Mark Waters,M,Lindsay Lohan,F
+Pearl,2022,Ti West,M,Mia Goth,F
+Spider-Man: Homecoming,2017,Jon Watts,M,Tom Holland,M
+Top Gun: Maverick,2022,Joseph Kosinski,M,Tom Cruise,M
+GoodFellas,1990,Martin Scorsese,M,Robert De Niro,M
+Little Miss Sunshine,2006,Jonathan Dayton,M,Greg Kinnear,M
+Aftersun,2022,Charlotte Wells,M,Paul Mescal,M
+The Lighthouse,2019,Robert Eggers,M,Robert Pattinson,M
+1917,2019,Sam Mendes,M,George MacKay,M
+No Country for Old Men,2007,Joel Coen,M,Javier Bardem,M
+Moonlight,2016,Barry Jenkins,M,Trevante Rhodes,M
+Prisoners,2013,Denis Villeneuve,M,Hugh Jackman,M
+The Devil Wears Prada,2006,David Frankel,M,Meryl Streep,F
+The Breakfast Club,1985,John Hughes,M,Emilio Estevez,M
+Uncut Gems,2019,Josh Safdie,M,Adam Sandler,M
+Dunkirk,2017,Christopher Nolan,M,Fionn Whitehead,M
+Killers of the Flower Moon,2023,Martin Scorsese,M,Leonardo DiCaprio,M
+Catch Me If You Can,2002,Steven Spielberg,M,Leonardo DiCaprio,M
+A Quiet Place,2018,John Krasinski,M,Emily Blunt,F
+The Banshees of Inisherin,2022,Martin McDonagh,M,Colin Farrell,M
+Nightcrawler,2014,Dan Gilroy,M,Jake Gyllenhaal,M
+The Holdovers,2023,Alexander Payne,M,Paul Giamatti,M
+Requiem for a Dream,2000,Darren Aronofsky,M,Ellen Burstyn,F
+Lost in Translation,2003,Sofia Coppola,F,Bill Murray,M
+Zodiac,2007,David Fincher,M,Jake Gyllenhaal,M
+The Hunger Games: The Ballad of Songbirds & Snakes,2023,Francis Lawrence,M,Tom Blyth,M
+Portrait of a Lady on Fire,2019,Céline Sciamma,F,Noémie Merlant,F
+Before Sunrise,1995,Richard Linklater,M,Ethan Hawke,M
+Marriage Story,2019,Noah Baumbach,M,Adam Driver,M
+Pride & Prejudice,2005,Joe Wright,M,Keira Knightley,F
+Blade Runner,1982,Ridley Scott,M,Harrison Ford,M
+The Dark Knight Rises,2012,Christopher Nolan,M,Christian Bale,M
+Oldboy,2003,Park Chan-wook,M,Choi Min-sik,M
+Asteroid City,2023,Wes Anderson,M,Jason Schwartzman,M
+Batman Begins,2005,Christopher Nolan,M,Christian Bale,M
+The Prestige,2006,Christopher Nolan,M,Hugh Jackman,M
+The Witch,2015,Robert Eggers,M,Anya Taylor-Joy,F
+The Lion King,1994,Roger Allers,M,Matthew Broderick,M
+Bohemian Rhapsody,2018,Bryan Singer,M,Rami Malek,M
+Schindler's List,1993,Steven Spielberg,M,Liam Neeson,M
+Babylon,2022,Damien Chazelle,M,Brad Pitt,M
+The French Dispatch,2021,Wes Anderson,M,Benicio del Toro,M
+The Lobster,2015,Yorgos Lanthimos,M,Colin Farrell,M
+Priscilla,2023,Sofia Coppola,F,Cailee Spaeny,F
+The Whale,2022,Darren Aronofsky,M,Brendan Fraser,M
+Ex Machina,2015,Alex Garland,M,Domhnall Gleeson,M
+Brokeback Mountain,2005,Ang Lee,M,Heath Ledger,M
+There Will Be Blood,2007,Paul Thomas Anderson,M,Daniel Day-Lewis,M
+Don't Worry Darling,2022,Olivia Wilde,F,Florence Pugh,F
+The Departed,2006,Martin Scorsese,M,Leonardo DiCaprio,M
+Clueless,1995,Amy Heckerling,F,Alicia Silverstone,F
+Juno,2007,Jason Reitman,M,Elliot Page,F
+Fargo,1996,Joel Coen,M,Frances McDormand,F
+Birdman or (The Unexpected Virtue of Ignorance),2014,Alejandro González Iñárritu,M,Michael Keaton,M
+The Martian,2015,Ridley Scott,M,Matt Damon,M
+Twilight,2008,Catherine Hardwicke,F,Kristen Stewart,F
+The Notebook,2004,Nick Cassavetes,M,Ryan Gosling,M
+The Zone of Interest,2023,Jonathan Glazer,M,Christian Friedel,M
+The Iron Claw,2023,Sean Durkin,M,Zac Efron,M
+Mulholland Drive,2001,David Lynch,M,Naomi Watts,F
+Society of the Snow,2023,J. A. Bayona,M,Enzo Vogrincic,M
+Scarface,1983,Brian De Palma,M,Al Pacino,M
+Léon: The Professional,1994,Luc Besson,M,Jean Reno,M
+"I, Tonya",2017,Craig Gillespie,M,Margot Robbie,F
+The Godfather: Part II,1974,Francis Ford Coppola,M,Al Pacino,M
+Logan,2017,James Mangold,M,Hugh Jackman,M
+Bones and All,2022,Luca Guadagnino,M,Taylor Russell,F
+12 Angry Men,1957,Sidney Lumet,M,Martin Balsam,M
+Moonrise Kingdom,2012,Wes Anderson,M,Jared Gilman,M
+Trainspotting,1996,Danny Boyle,M,Ewan McGregor,M
+Edward Scissorhands,1990,Tim Burton,M,Johnny Depp,M
+Saving Private Ryan,1998,Steven Spielberg,M,Tom Hanks,M
+About Time,2013,Richard Curtis,M,Domhnall Gleeson,M
+The Favourite,2018,Yorgos Lanthimos,M,Emma Stone,F
+The Revenant,2015,Alejandro González Iñárritu,M,Leonardo DiCaprio,M
+Your Name.,2016,Makoto Shinkai,M,Ryunosuke Kamiki,M
+Elvis,2022,Baz Luhrmann,M,Austin Butler,M
+BlacKkKlansman,2018,Spike Lee,M,John David Washington,M
+American Beauty,1999,Sam Mendes,M,Kevin Spacey,M
+The Great Gatsby,2013,Baz Luhrmann,M,Leonardo DiCaprio,M
+"Girl, Interrupted",1999,James Mangold,M,Winona Ryder,F
+Eyes Wide Shut,1999,Stanley Kubrick,M,Tom Cruise,M
+Apocalypse Now,1979,Francis Ford Coppola,M,Martin Sheen,M
+The Shape of Water,2017,Guillermo del Toro,M,Sally Hawkins,F
+The Virgin Suicides,1999,Sofia Coppola,F,James Woods,M
+The Florida Project,2017,Sean Baker,M,Brooklynn Prince,F
+The Worst Person in the World,2021,Joachim Trier,M,Renate Reinsve,F
+Beautiful Boy,2018,Felix van Groeningen,M,Steve Carell,M
+Gladiator,2000,Ridley Scott,M,Russell Crowe,M
+In the Mood for Love,2000,Wong Kar-wai,M,Tony Leung Chiu-wai,M
+The Hateful Eight,2015,Quentin Tarantino,M,Samuel L. Jackson,M
+The Pianist,2002,Roman Polanski,M,Adrien Brody,M
+Triangle of Sadness,2022,Ruben Östlund,M,Harris Dickinson,M
+The Handmaiden,2016,Park Chan-wook,M,Kim Min-hee,F
+The Royal Tenenbaums,2001,Wes Anderson,M,Gene Hackman,M
+Licorice Pizza,2021,Paul Thomas Anderson,M,Alana Haim,F
+Sound of Metal,2019,Darius Marder,M,Riz Ahmed,M
+The Killing of a Sacred Deer,2017,Yorgos Lanthimos,M,Colin Farrell,M
+TÁR,2022,Todd Field,M,Cate Blanchett,F
+City of God,2002,Fernando Meirelles,M,Alexandre Rodrigues,M
+"tick, tick...BOOM!",2021,Lin-Manuel Miranda,M,Andrew Garfield,M
+"Crazy, Stupid, Love.",2011,Glenn Ficarra,M,Steve Carell,M
+When Harry Met Sally...,1989,Rob Reiner,M,Meg Ryan,F
+The Irishman,2019,Martin Scorsese,M,Robert De Niro,M
+All Quiet on the Western Front,2022,Edward Berger,M,Felix Kammerer,M
+mother!,2017,Darren Aronofsky,M,Jennifer Lawrence,F
+Civil War,2024,Alex Garland,M,Kirsten Dunst,F
+Pan's Labyrinth,2006,Guillermo del Toro,M,Ivana Baquero,F
+Promising Young Woman,2020,Emerald Fennell,F,Carey Mulligan,F
+The Sixth Sense,1999,M. Night Shyamalan,M,Bruce Willis,M
+All of Us Strangers,2023,Andrew Haigh,M,Andrew Scott,M
+La Haine,1995,Mathieu Kassovitz,M,Vincent Cassel,M
+May December,2023,Todd Haynes,M,Natalie Portman,F
+One Flew Over the Cuckoo's Nest,1975,Miloš Forman,M,Jack Nicholson,M
+Before Sunset,2004,Richard Linklater,M,Ethan Hawke,M
+The Exorcist,1973,William Friedkin,M,Ellen Burstyn,F
+Stand by Me,1986,Rob Reiner,M,Wil Wheaton,M
+Manchester by the Sea,2016,Kenneth Lonergan,M,Casey Affleck,M
+A Star Is Born,2018,Bradley Cooper,M,Lady Gaga,F
+The Big Short,2015,Adam McKay,M,Steve Carell,M
+Heat,1995,Michael Mann,M,Al Pacino,M
+The Imitation Game,2014,Morten Tyldum,M,Benedict Cumberbatch,M
+Full Metal Jacket,1987,Stanley Kubrick,M,Matthew Modine,M
+Chungking Express,1994,Wong Kar-wai,M,Takeshi Kaneshiro,M
+Casablanca,1942,Michael Curtiz,M,Humphrey Bogart,M
+The Fabelmans,2022,Steven Spielberg,M,Gabriel LaBelle,M
+The Green Mile,1999,Frank Darabont,M,Tom Hanks,M
+Memories of Murder,2003,Bong Joon-ho,M,Song Kang-ho,M
+Grave of the Fireflies,1988,Isao Takahata,M,Tsutomu Tatsumi,M
+Top Gun,1986,Tony Scott,M,Tom Cruise,M
+Frances Ha,2012,Noah Baumbach,M,Greta Gerwig,F
+Silver Linings Playbook,2012,David O. Russell,M,Bradley Cooper,M
+"Three Billboards Outside Ebbing, Missouri",2017,Martin McDonagh,M,Frances McDormand,F
+Citizen Kane,1941,Orson Welles,M,Orson Welles,M
+mid90s,2018,Jonah Hill,M,Sunny Suljic,M
+Guillermo del Toro's Pinocchio,2022,Guillermo del Toro,M,Ewan McGregor,M
+Ford v Ferrari,2019,James Mangold,M,Matt Damon,M
+Green Book,2018,Peter Farrelly,M,Viggo Mortensen,M
+Love Actually,2003,Richard Curtis,M,Hugh Grant,M
+Leave the World Behind,2023,Sam Esmail,M,Julia Roberts,F
+The Queen's Gambit,2020,Scott Frank,M,Anya Taylor-Joy,F
+Shiva Baby,2020,Emma Seligman,F,Rachel Sennott,F
+Minari,2020,Lee Isaac Chung,M,Steven Yeun,M
+Snowpiercer,2013,Bong Joon-ho,M,Chris Evans,M
+Children of Men,2006,Alfonso Cuarón,M,Clive Owen,M
+Room,2015,Lenny Abrahamson,M,Brie Larson,F
+The Curious Case of Benjamin Button,2008,David Fincher,M,Brad Pitt,M
+The Green Knight,2021,David Lowery,M,Dev Patel,M
+Come and See,1985,Elem Klimov,M,Aleksei Kravchenko,M
+The Edge of Seventeen,2016,Kelly Fremon Craig,F,Hailee Steinfeld,F
+Bird Box,2018,Susanne Bier,F,Sandra Bullock,F
+Phantom Thread,2017,Paul Thomas Anderson,M,Daniel Day-Lewis,M
+Carol,2015,Todd Haynes,M,Cate Blanchett,F
+Marie Antoinette,2006,Sofia Coppola,F,Kirsten Dunst,F
+Gravity,2013,Alfonso Cuarón,M,Sandra Bullock,F
+Nomadland,2020,Chloé Zhao,F,Frances McDormand,F
+Boyhood,2014,Richard Linklater,M,Ellar Coltrane,M
+"Paris, Texas",1984,Wim Wenders,M,Harry Dean Stanton,M
+Rise of the Planet of the Apes,2011,Rupert Wyatt,M,Andy Serkis,M
+Punch-Drunk Love,2002,Paul Thomas Anderson,M,Adam Sandler,M
+Another Round,2020,Thomas Vinterberg,M,Mads Mikkelsen,M
+The Greatest Showman,2017,Michael Gracey,M,Hugh Jackman,M
+Perfect Days,2023,Wim Wenders,M,Koji Yakusho,M
+I'm Thinking of Ending Things,2020,Charlie Kaufman,M,Jesse Plemons,M
+Rocky,1976,John G. Avildsen,M,Sylvester Stallone,M
+Suspiria,2018,Luca Guadagnino,M,Dakota Johnson,F
+American Fiction,2023,Cord Jefferson,M,Jeffrey Wright,M
+Squid Game,2021,Hwang Dong-hyuk,M,Lee Jung-jae,M
+12 Years a Slave,2013,Steve McQueen,M,Chiwetel Ejiofor,M
+Groundhog Day,1993,Harold Ramis,M,Bill Murray,M
+The Usual Suspects,1995,Bryan Singer,M,Kevin Spacey,M
+Almost Famous,2000,Cameron Crowe,M,Billy Crudup,M
+Mr. & Mrs. Smith,2005,Doug Liman,M,Brad Pitt,M
+Boogie Nights,1997,Paul Thomas Anderson,M,Mark Wahlberg,M
+The Idea of You,2024,Michael Showalter,M,Anne Hathaway,F
+Life of Pi,2012,Ang Lee,M,Suraj Sharma,M
+Magnolia,1999,Paul Thomas Anderson,M,Tom Cruise,M
+Hacksaw Ridge,2016,Mel Gibson,M,Andrew Garfield,M
+The Power of the Dog,2021,Jane Campion,F,Benedict Cumberbatch,M
+Rosemary's Baby,1968,Roman Polanski,M,Mia Farrow,F
+It's a Wonderful Life,1946,Frank Capra,M,James Stewart,M
+Dawn of the Planet of the Apes,2014,Matt Reeves,M,Andy Serkis,M
+American History X,1998,Tony Kaye,M,Edward Norton,M
+Nocturnal Animals,2016,Tom Ford,M,Amy Adams,F
+Raging Bull,1980,Martin Scorsese,M,Robert De Niro,M
+Roma,2018,Alfonso Cuarón,M,Yalitza Aparicio,F
+Casino,1995,Martin Scorsese,M,Robert De Niro,M
+Dazed and Confused,1993,Richard Linklater,M,Jason London,M
+Napoleon,2023,Ridley Scott,M,Joaquin Phoenix,M
+WandaVision,2021,Matt Shakman,M,Elizabeth Olsen,F
+Spencer,2021,Pablo Larraín,M,Kristen Stewart,F
+Seven Samurai,1954,Akira Kurosawa,M,Toshirō Mifune,M
+Being John Malkovich,1999,Spike Jonze,M,John Cusack,M
+Atonement,2007,Joe Wright,M,James McAvoy,M
+The Darjeeling Limited,2007,Wes Anderson,M,Owen Wilson,M
+Persona,1966,Ingmar Bergman,M,Bibi Andersson,F
+Eighth Grade,2018,Bo Burnham,M,Elsie Fisher,F
+Raw,2016,Julia Ducournau,F,Garance Marillier,F
+Drive My Car,2021,Ryūsuke Hamaguchi,M,Hidetoshi Nishijima,M
+Titane,2021,Julia Ducournau,F,Vincent Lindon,F
+Do the Right Thing,1989,Spike Lee,M,Danny Aiello,M
+Rocketman,2019,Dexter Fletcher,M,Taron Egerton,M
+Moneyball,2011,Bennett Miller,M,Brad Pitt,M
+The Babadook,2014,Jennifer Kent,F,Essie Davis,F
+Before Midnight,2013,Richard Linklater,M,Ethan Hawke,M
+Air,2023,Ben Affleck,M,Matt Damon,M
+War for the Planet of the Apes,2017,Matt Reeves,M,Andy Serkis,M
+The Pursuit of Happyness,2006,Gabriele Muccino,M,Will Smith,M
+The Secret Life of Walter Mitty,2013,Ben Stiller,M,Ben Stiller,M
+Bo Burnham: Inside,2021,Bo Burnham,M,Bo Burnham,M
+The Talented Mr. Ripley,1999,Anthony Minghella,M,Matt Damon,M
+In Bruges,2008,Martin McDonagh,M,Colin Farrell,M
+The Twilight Saga: New Moon,2009,Chris Weitz,M,Kristen Stewart,F
+Spotlight,2015,Tom McCarthy,M,Mark Ruffalo,M
+The Hunt,2012,Thomas Vinterberg,M,Mads Mikkelsen,M
+Jackie Brown,1997,Quentin Tarantino,M,Pam Grier,F
+Stalker,1979,Andrei Tarkovsky,M,Aleksandr Kaydanovskiy,M
+Dirty Dancing,1987,Emile Ardolino,M,Jennifer Grey,F
+Into the Wild,2007,Sean Penn,M,Emile Hirsch,M
+Baby Reindeer,2024,Weronika Tofilska,F,Richard Gadd,M
+Life Is Beautiful,1997,Roberto Benigni,M,Roberto Benigni,M
+World War Z,2013,Marc Forster,M,Brad Pitt,M
+West Side Story,2021,Steven Spielberg,M,Ansel Elgort,M
+Climax,2018,Gaspar Noé,M,Sofia Boutella,F
+House of Gucci,2021,Ridley Scott,M,Lady Gaga,F
+The Platform,2019,Galder Gaztelu-Urrutia,M,Ivan Massagué,M
+Cinema Paradiso,1988,Giuseppe Tornatore,M,Philippe Noiret,M
+Chinatown,1974,Roman Polanski,M,Jack Nicholson,M
+Romeo + Juliet,1996,Baz Luhrmann,M,Leonardo DiCaprio,M
+The Graduate,1967,Mike Nichols,M,Anne Bancroft,F
+Cast Away,2000,Robert Zemeckis,M,Tom Hanks,M
+10 Cloverfield Lane,2016,Dan Trachtenberg,M,John Goodman,M
+Dallas Buyers Club,2013,Jean-Marc Vallée,M,Matthew McConaughey,M
+Slumdog Millionaire,2008,Danny Boyle,M,Dev Patel,M
+I Saw the TV Glow,2024,Jane Schoenbrun,F,Justice Smith,M
+Okja,2017,Bong Joon-ho,M,Tilda Swinton,F
+Rushmore,1998,Wes Anderson,M,Jason Schwartzman,M
+Amadeus,1984,Miloš Forman,M,F. Murray Abraham,M
+Blue Valentine,2010,Derek Cianfrance,M,Ryan Gosling,M
+The Theory of Everything,2014,James Marsh,M,Eddie Redmayne,M
+The Proposal,2009,Anne Fletcher,F,Sandra Bullock,F
+Normal People,2020,Lenny Abrahamson,M,Daisy Edgar-Jones,F
+The Life Aquatic with Steve Zissou,2004,Wes Anderson,M,Bill Murray,M
+The Father,2020,Florian Zeller,M,Anthony Hopkins,M
+The Master,2012,Paul Thomas Anderson,M,Joaquin Phoenix,M
+Thelma & Louise,1991,Ridley Scott,M,Susan Sarandon,F
+Maestro,2023,Bradley Cooper,M,Carey Mulligan,F
+Big Fish,2003,Tim Burton,M,Ewan McGregor,M
+A Ghost Story,2017,David Lowery,M,Casey Affleck,M
+Loki,2021,Kate Herron,M,Tom Hiddleston,M
+CODA,2021,Siân Heder,F,Emilia Jones,F
+Creed,2015,Ryan Coogler,M,Michael B. Jordan,M
+El Camino: A Breaking Bad Movie,2019,Vince Gilligan,M,Aaron Paul,M
+Dog Day Afternoon,1975,Sidney Lumet,M,Al Pacino,M
+Mysterious Skin,2004,Gregg Araki,M,Brady Corbet,M
+Breakfast at Tiffany's,1961,Blake Edwards,M,Audrey Hepburn,F
+Under the Skin,2013,Jonathan Glazer,M,Scarlett Johansson,F
+The Game,1997,David Fincher,M,Michael Douglas,M
+We Need to Talk About Kevin,2011,Lynne Ramsay,F,Tilda Swinton,F
+A Beautiful Mind,2001,Ron Howard,M,Russell Crowe,M
+Nightmare Alley,2021,Guillermo del Toro,M,Bradley Cooper,M
+Inside Llewyn Davis,2013,Joel Coen,M,Oscar Isaac,M
+I Am Legend,2007,Francis Lawrence,M,Will Smith,M
+Me Before You,2016,Thea Sharrock,F,Emilia Clarke,F
+Moulin Rouge!,2001,Baz Luhrmann,M,Nicole Kidman,F
+The Intouchables,2011,Éric Toledano,M,François Cluzet,M
+Swiss Army Man,2016,Daniel Scheinert,M,Paul Dano,M
+The Farewell,2019,Lulu Wang,F,Awkwafina,F
+Chernobyl,2019,Johan Renck,M,Jared Harris,M
+Hidden Figures,2016,Theodore Melfi,M,Taraji P. Henson,F
+Close,2022,Lukas Dhont,M,Eden Dambrine,M
+"Love, Simon",2018,Greg Berlanti,M,Nick Robinson,M
+Ad Astra,2019,James Gray,M,Brad Pitt,M
+The Seventh Seal,1957,Ingmar Bergman,M,Max von Sydow,M
+A Silent Voice,2016,Naoko Yamada,F,Miyu Irino,M
+Incendies,2010,Denis Villeneuve,M,Lubna Azabal,M
+Dogtooth,2009,Yorgos Lanthimos,M,Christos Stergioglou,M
+Bridget Jones's Diary,2001,Sharon Maguire,F,Renée Zellweger,F
+The Devil All the Time,2020,Antonio Campos,M,Tom Holland,M
+Neon Genesis Evangelion: The End of Evangelion,1997,Hideaki Anno,M,Megumi Ogata,F
+The Twilight Saga: Eclipse,2010,David Slade,M,Kristen Stewart,F
+Barry Lyndon,1975,Stanley Kubrick,M,Ryan O'Neal,M
+Misery,1990,Rob Reiner,M,James Caan,M
+Burn After Reading,2008,Ethan Coen,M,George Clooney,M
+The Wind Rises,2013,Hayao Miyazaki,M,Hideaki Anno,M
+The Help,2011,Tate Taylor,M,Emma Stone,F
+The Sound of Music,1965,Robert Wise,M,Julie Andrews,F
+Judas and the Black Messiah,2021,Shaka King,M,Daniel Kaluuya,M
+After Hours,1985,Martin Scorsese,M,Griffin Dunne,M
+Kinds of Kindness,2024,Yorgos Lanthimos,M,Emma Stone,F
+Melancholia,2011,Lars von Trier,M,Kirsten Dunst,F
+The King of Comedy,1982,Martin Scorsese,M,Robert De Niro,M
+The Boy in the Striped Pyjamas,2008,Mark Herman,M,Asa Butterfield,M
+Fury,2014,David Ayer,M,Brad Pitt,M
+The Fault in Our Stars,2014,Josh Boone,M,Shailene Woodley,F
+Burning,2018,Lee Chang-dong,M,Yoo Ah-in,M
+Hamilton,2020,Thomas Kail,M,Lin-Manuel Miranda,M
+RRR,2022,S. S. Rajamouli,M,Ram Charan,M
+The Disaster Artist,2017,James Franco,M,Dave Franco,M
+Twisters,2024,Lee Isaac Chung,M,Daisy Edgar-Jones,F
+The House That Jack Built,2018,Lars von Trier,M,Matt Dillon,M
+The Craft,1996,Andrew Fleming,M,Robin Tunney,F
+The Tree of Life,2011,Terrence Malick,M,Brad Pitt,M
+The Trial of the Chicago 7,2020,Aaron Sorkin,M,Eddie Redmayne,M
+"Synecdoche, New York",2008,Charlie Kaufman,M,Philip Seymour Hoffman,M
+Thirteen,2003,Catherine Hardwicke,F,Evan Rachel Wood,F
+High School Musical,2006,Kenny Ortega,M,Zac Efron,M
+The Twilight Saga: Breaking Dawn – Part 2,2012,Bill Condon,M,Robert Pattinson,M
+Sunset Boulevard,1950,Billy Wilder,M,William Holden,M
+Glass,2019,M. Night Shyamalan,M,James McAvoy,M
+Les Misérables,2012,Tom Hooper,M,Hugh Jackman,M
+Murder on the Orient Express,2017,Kenneth Branagh,M,Kenneth Branagh,M
+The Place Beyond the Pines,2012,Derek Cianfrance,M,Ryan Gosling,M
+Waves,2019,Trey Edward Shults,M,Kelvin Harrison Jr.,M
+The Terminal,2004,Steven Spielberg,M,Tom Hanks,M
+Captain Fantastic,2016,Matt Ross,M,Viggo Mortensen,M
+Shoplifters,2018,Hirokazu Kore-eda,M,Lily Franky,M
+Interview with the Vampire,1994,Neil Jordan,M,Tom Cruise,M
+The Lion King,2019,Jon Favreau,M,Chiwetel Ejiofor,M
+Collateral,2004,Michael Mann,M,Jamie Foxx,M
+I Care a Lot,2020,J Blakeson,M,Rosamund Pike,F
+Monster,2023,Hirokazu Kore-eda,M,Sakura Ando,F
+Unbreakable,2000,M. Night Shyamalan,M,Bruce Willis,M
+The King's Speech,2010,Tom Hooper,M,Colin Firth,M
+Fear and Loathing in Las Vegas,1998,Terry Gilliam,M,Johnny Depp,M
+The Apartment,1960,Billy Wilder,M,Jack Lemmon,M
+Gangs of New York,2002,Martin Scorsese,M,Leonardo DiCaprio,M
+Mommy,2014,Xavier Dolan,M,Anne Dorval,F
+"Love, Rosie",2014,Christian Ditter,M,Lily Collins,F
+Rain Man,1988,Barry Levinson,M,Tom Cruise,M
+The Elephant Man,1980,David Lynch,M,Anthony Hopkins,M
+Pig,2021,Michael Sarnoski,M,Nicolas Cage,M
+Whisper of the Heart,1995,Yoshifumi Kondo,M,Yoko Honna,F
+Argo,2012,Ben Affleck,M,Ben Affleck,M
+Hugo,2011,Martin Scorsese,M,Asa Butterfield,M
+First Reformed,2017,Paul Schrader,M,Ethan Hawke,M
+Harakiri,1962,Masaki Kobayashi,M,Tatsuya Nakadai,M
+8½,1963,Federico Fellini,M,Marcello Mastroianni,M
+The Last Duel,2021,Ridley Scott,M,Jodie Comer,F
+8 Mile,2002,Curtis Hanson,M,Eminem,M
+Adaptation.,2002,Spike Jonze,M,Nicolas Cage,M
+Lost Highway,1997,David Lynch,M,Bill Pullman,M
+Metropolis,1927,Fritz Lang,M,Gustav Fröhlich,M
+The Skin I Live In,2011,Pedro Almodóvar,M,Antonio Banderas,M
+Sweeney Todd: The Demon Barber of Fleet Street,2007,Tim Burton,M,Johnny Depp,M
+Braveheart,1995,Mel Gibson,M,Mel Gibson,M
+Hunt for the Wilderpeople,2016,Taika Waititi,M,Sam Neill,M
+American Hustle,2013,David O. Russell,M,Christian Bale,M
+Godzilla,2014,Gareth Edwards,M,Aaron Taylor-Johnson,M
+Click,2006,Frank Coraci,M,Adam Sandler,M
+Y Tu Mamá También,2001,Alfonso Cuarón,M,Diego Luna,M
+Signs,2002,M. Night Shyamalan,M,Mel Gibson,M
+Tarzan,1999,Kevin Lima,M,Tony Goldwyn,M
+Training Day,2001,Antoine Fuqua,M,Denzel Washington,M
