@@ -509,8 +509,8 @@ customElements.define('svg-fader', SVGFader);
     <br>
     <br>
     <b>Svelte template for this site can be found <a href="https://svelte.dev/repl/ea206af4d7bc454f969ee6e31fb545b0?version=4.1.1">here</a>.
-    Code for this data story, as well as readings referenced and tutorials for building a site with Svelte, can be found <a href="https://github.com/christinamyli/women-in-horror">here</a>.
-    The data set with responses and explanations provided by OpenAI API / ChatGPT 4.0 can be found <a href="https://github.com/christinamyli/women-in-horror/blob/main/data/Letterboxd_Horror_Female_Wiki_OpenAI_final_2.xlsx">here</a>.</b>
+    Code for this data story, as well as readings referenced and tutorials for building a site with Svelte, can be found <a href="https://github.com/christinamyli/women-in-horror-prototype">here</a>.
+    The data set with responses and explanations provided by OpenAI API / ChatGPT 4.0 can be found <a href="https://github.com/christinamyli/women-in-horror-prototype/blob/main/data/Letterboxd_Horror_Female_Wiki_OpenAI_final_2.xlsx">here</a>.</b>
     <br>
     <br>
     <b>Many thanks to <a href="https://yanansun0074.github.io/portfolio/">Yanan Sun</a>, <a href="https://thomastaoli.github.io/">Thomas Li</a>, <a href="https://manyunzou.github.io/">Manyun Zou</a>, and <a href="https://mhkeller.com/">Michael Keller</a> for their assistance on this project.</b>
